@@ -1,4 +1,5 @@
 # [React-Facts-Website](https://danilocanuto.github.io/React-Facts-Website)
+<file src="public/index.html"/>
 
 # Getting Started with Create React App
 
