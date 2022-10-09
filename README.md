@@ -1,6 +1,8 @@
 # [React-Facts-Website](https://danilocanuto.github.io/React-Facts-Website)
 <file src="public/index.html"/>
 
+<img src= "images/react-facts-print.png" width='200'/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
