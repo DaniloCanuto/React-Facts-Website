@@ -1,7 +1,7 @@
 # [React-Facts-Website](https://danilocanuto.github.io/React-Facts-Website)
 <file src="public/index.html"/>
 
-<img src= "src/images/react-facts-print.png" width='400'/>
+<img src= "src/images/react-facts-print.png" width='600'/>
 
 # Getting Started with Create React App
 
